@@ -42,6 +42,6 @@ Type `/plans` in Savyly to see plans and your remaining time, and `/buy <plan>` 
 
 ## Support
 
-Email [yprashanna@gmail.com](mailto:yprashanna@gmail.com).
+Email [yprashanna17@gmail.com](mailto:yprashanna17@gmail.com).
 
 This repository only hosts Savyly downloads.
