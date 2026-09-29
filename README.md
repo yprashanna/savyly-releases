@@ -12,7 +12,7 @@ Requires an Apple Silicon Mac (M1 or newer) running macOS 13 Ventura or later.
 
 1. Open `Savyly.dmg` and drag **Savyly** into **Applications**.
 2. Open Savyly from Applications. If macOS says it can't verify the developer, open **System Settings → Privacy & Security**, scroll down and click **Open Anyway**. You only need to do this once.
-3. When asked, allow **Accessibility**, **Input Monitoring**, **Microphone** and **Screen Recording**.
+3. Turn on **Savyly** under **Accessibility** (macOS lists it for you), and allow **Microphone** and **Screen Recording** when asked.
 4. Press **⌘⇧Space** and ask your first question. The first 10 minutes are free.
 
 ## Plans
