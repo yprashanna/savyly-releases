@@ -1,6 +1,6 @@
 # Savyly for Mac and Windows
 
-The DSA copilot that lives on your screen. Type, speak or snap a question and get the approach, clean code, complexity and a dry run in seconds.
+The DSA tutor that lives on your screen. Type, speak or snap a problem and get the idea, clean code, complexity and a dry run in seconds.
 
 ## Download
 
