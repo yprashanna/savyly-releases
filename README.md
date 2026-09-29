@@ -12,8 +12,10 @@ Requires an Apple Silicon Mac (M1 or newer) running macOS 13 Ventura or later.
 
 1. Open `Savyly.dmg` and drag **Savyly** into **Applications**.
 2. Open Savyly from Applications. If macOS says it can't verify the developer, open **System Settings → Privacy & Security**, scroll down and click **Open Anyway**. You only need to do this once.
-3. Turn on **Savyly** under **Accessibility** (macOS lists it for you), and allow **Microphone** and **Screen Recording** when asked.
-4. Press **⌘⇧Space** and ask your first question. The first 10 minutes are free.
+3. In the Savyly window, click **Allow** next to Accessibility and switch on **Savyly** in the list macOS shows. Then click **Set up the savyly command**.
+4. Open a new Terminal window and run `savyly start`. Press **⌘⇧Space** anywhere to ask your first question. The first 10 minutes are free.
+
+Stop the assistant with `savyly stop`, restart it with `savyly restart` and check it with `savyly status`. It keeps running after you close Terminal.
 
 ## Plans
 
