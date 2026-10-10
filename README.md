@@ -5,7 +5,7 @@ A private AI assistant that floats over any app and stays off screen share. Type
 ## Download
 
 - **Mac:** **[⬇ Download Savyly.dmg](https://github.com/yprashanna/savyly-releases/releases/latest/download/Savyly.dmg)**. Needs an Apple Silicon Mac (M1 or newer) with macOS 13 Ventura or later.
-- **Windows:** **[⬇ Download SavylySetup.exe](https://github.com/yprashanna/savyly-releases/releases/latest/download/SavylySetup.exe)**. Needs 64-bit Windows 10 (version 2004 or newer) or Windows 11.
+- **Windows:** **[⬇ Download SavylySetup.exe](https://github.com/yprashanna/savyly-releases/releases/latest/download/SavylySetup.exe)**. Needs 64-bit Windows 10 (version 1809 or newer) or Windows 11.
 
 Both links always get the latest version.
 
@@ -50,12 +50,12 @@ Your first **15 minutes are free**, and they only count while you're using Savyl
 | Spark | ₹199 | 1 hour of app time, valid 30 days |
 | Focus | ₹499 | 3 hours of app time, valid 30 days |
 | Sprint | ₹999 | Unlimited for 7 days |
-| Marathon | ₹4,999 | Unlimited for 30 days |
+| Marathon | ₹2,999 | Unlimited for 30 days |
 
 Every plan includes Deep, which thinks longer for hard problems. Pick a Deep mode such as Deep Code, then choose how hard it thinks (Low, Medium, High or Max) in the question box.
 
 ## Support
 
-Email [support@savyly.com](mailto:support@savyly.com). More at [savyly.com](https://savyly.com).
+Email [support@savyly.com](mailto:support@savyly.com). Service status: [stats.uptimerobot.com/uUi6tUr7g9](https://stats.uptimerobot.com/uUi6tUr7g9). More at [savyly.com](https://savyly.com).
 
 This repository only hosts Savyly downloads.
