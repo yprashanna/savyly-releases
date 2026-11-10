@@ -1,6 +1,6 @@
 # Savyly for Mac and Windows
 
-A private AI interview assistant for Mac and Windows that floats over any app. Type a question, answer what's on your screen with one key, or let it hear both sides of a call and answer what was just asked. Practise interviews with it too.
+A private AI interview assistant for Mac and Windows that floats over any app. Type a question, answer what's on your screen with one key, or let it hear both sides of a call and answer what was just asked. Practise full-screen interviews with it too.
 
 ## Download
 
@@ -9,13 +9,13 @@ A private AI interview assistant for Mac and Windows that floats over any app. T
 
 Both links always get the latest version.
 
-## New in 0.3.5
+## New in 0.3.6
 
-- **Hears both sides:** your computer's sound and your microphone, with live captions, and **Auto** to answer by itself when a question is asked (it's off until you turn it on).
-- **A question on several screens:** press ⌃⇧↩ (Ctrl+Shift+Enter on Windows) on each screen, up to 10, then the screen key (⌘⇧↩, or Win+Shift+Enter) on the last one.
-- **Practice interviews:** Savyly plays the interviewer (HR, technical, coding or system design), with feedback after every answer and a scorecard. Type `/practice`.
-- **Answers on your phone:** open **Phone** in the Savyly window and scan the QR code. Paired with the QR code, everything between your laptop and your phone is encrypted end to end (a 6-digit code works too, but it hands the key over through Savyly's server). Voice, Screen and Deep work from the phone too.
-- **See how you did** after an interview, company and job description in Modes, **Test my setup** before an important call, and codes and invites on the Plans page.
+- **Full-screen practice interviews:** Get started → **Practise an interview**. The interviewer asks out loud in a natural voice, your words show as you speak, coding questions get a code editor, and all the feedback and a scorecard come at the end, like a real interview.
+- **Listening that keeps going:** live captions for as long as listening is on. After 1 hour 55 minutes without use, a card counts down 5 minutes: press ⌘⇧L (Win+Shift+L on Windows) or click **Keep listening** to carry on. Otherwise only listening turns off.
+- **Answers ready sooner:** in the interview modes, the answer is often ready the moment you press ⌘↩ (Win+Enter). Technical, HR, System Design, Meetings and Presentations now answer with what to say, then likely follow-up questions with short answers.
+- **Deep:** when your plan's Deep runs out, Deep questions are answered in Fast.
+- **Refer & earn** gets its own page in the Savyly window, **Check for updates** says clearly when you're up to date, and **Delete my data** also clears what Savyly's servers were still using for you.
 
 ## Install on Mac
 
@@ -43,15 +43,15 @@ Both links always get the latest version.
 | Scroll the answer (while Savyly is on screen) | ⌘↑ / ⌘↓ | Ctrl+↑ / Ctrl+↓ |
 | Move the window (while Savyly is on screen) | ⌃ + arrows | Alt + arrows |
 
-Listening hears both sides: your computer's own audio (a call or a video) and your microphone, only while listening is on. It starts with the assistant, and ⌘⇧L or Win+Shift+L turns it off. Nothing is recorded. To hear only your computer's sound, untick **Listening hears my microphone too** on Get started in the Savyly window. Type `/` in the question box to see commands such as `/mode`, `/new`, `/practice`, `/test` and `/update`.
+Listening hears both sides: your computer's own audio (a call or a video) and your microphone, only while listening is on. It starts with the assistant, and ⌘⇧L or Win+Shift+L turns it off. If you don't use Savyly for 2 hours, it turns off by itself after a 5-minute warning. Nothing is recorded. To hear only your computer's sound, untick **Include my microphone while listening** on Get started in the Savyly window. Type `/` in the question box to see commands such as `/mode`, `/new`, `/buy`, `/continue` and `/help`. Practice interviews, plans, your phone and updates are in the Savyly window.
 
 ## Updating
 
-From version 0.3.2, Savyly updates itself: when a new version is out, click **Update** in the Savyly window, or type `savyly update`. From 0.3.5 you can also click **Check for updates** next to the version at the bottom left of the Savyly window, or type `/update` in the floating window. Your settings and permissions stay. On 0.3.1 or older, download once from the links above.
+From version 0.3.2, Savyly updates itself: when a new version is out, click **Update** in the Savyly window, or type `savyly update`. You can also click **Check for updates** next to the version at the bottom left of the Savyly window. From 0.3.6, Savyly checks that each update really comes from Savyly before installing it. Your settings and permissions stay, and the first time 0.3.6 opens it asks you once to agree to the updated Terms. On 0.3.1 or older, download once from the links above.
 
 ## Plans
 
-Your first **15 minutes are free**, and they only count while you're using Savyly. Open **Plans** in the Savyly window, or type `/buy`, to get more. Have a code? Enter it on the Plans page.
+Your first **15 minutes are free**, and they only count while you're using Savyly. Open **Plans** in the Savyly window, or type `/buy`, to get more. Have a code? Enter it on the Plans page. Invite friends from **Refer & earn**: you both get free minutes.
 
 | Plan | Price | What you get |
 |---|---|---|
@@ -61,7 +61,7 @@ Your first **15 minutes are free**, and they only count while you're using Savyl
 | Sprint | ₹999 | Unlimited for 7 days |
 | Marathon | ₹2,999 | Unlimited for 30 days |
 
-Every plan includes Deep, which thinks longer for hard problems. Pick a Deep mode such as Deep Code, then choose how hard it thinks (Low, Medium, High or Max) in the question box.
+Every plan includes Deep, which thinks longer for hard problems. Pick a Deep mode such as Deep Code, then choose how hard it thinks (Low, Medium, High or Max) in the question box. When a plan's Deep runs out, Deep questions are answered in Fast.
 
 ## Support
 
